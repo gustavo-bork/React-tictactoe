@@ -1,1 +1,1 @@
-Jogo da Velha, usando a framework React.JS
+Tic-Tac-Toe, using framework React.JS
